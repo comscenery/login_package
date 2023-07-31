@@ -17,7 +17,7 @@ class _LoginPageState extends State<LoginPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("登录页面啊"),
+        title: Text("插件包--登录页面--github"),
       ),
       body: Container(),
     );
